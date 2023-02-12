@@ -1,5 +1,1 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Same as Assignment 2. Collect fruits using A and D. I added a highscore code that saves it for the next time.
